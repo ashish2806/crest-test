@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "m1",
+            "name": "Shirt",
+            "description": "cotton, summer special",
+            "price": 22.99
+        },
+        {
+            "id": "m2",
+            "name": "T-Shirt",
+            "description": "A german brand for casula look",
+            "price": 16.5
+        },
+        {
+            "id": "m3",
+            "name": "Kurta",
+            "description": "Made in India",
+            "price": 21.00
+        },
+        {
+            "id": "m4",
+            "name": "Kurti",
+            "description": "Made in India",
+            "price": 19.00
+        }
+    ]
+}
